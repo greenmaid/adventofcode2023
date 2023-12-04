@@ -1,0 +1,6 @@
+pip
+black
+flake8
+mypy
+pytest
+igraph
